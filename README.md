@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Gaiatuven
-- 👀 I’m interested in ...
+- 
+- 👀 I’m interested a self taught python programmer.
+- 
 - 🌱 I’m currently learning ...
+
+
 - 📫 How to reach me ...
 
 <!---
