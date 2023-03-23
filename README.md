@@ -1,9 +1,19 @@
 - 👋 Hi, I’m @Gaiatuven
 - 
-- 👀 I’m interested a self taught python programmer.
+- 👀 I’m interested:
+- 
+-  New career within IT, 
+-  
+-  love to take a swing at Coding "_"
+-  
+-  Bash scripting, python development. 
+-   a self taught programmer.
 - 
 - 🌱 I’m currently learning ...
-
+- 
+  Bash scripting, 
+  Python, 
+  
 
 - 📫 How to reach me ...
 
