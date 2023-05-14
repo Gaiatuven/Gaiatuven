@@ -1,21 +1,12 @@
-- 👋 Hi, I’m @Gaiatuven
-- 
-- 👀 I’m interested:
-- 
--  New career within IT, 
--  
--  love to take a swing at Coding "_"
--  
--  Bash scripting, python development. 
--   a self taught programmer.
-- 
-- 🌱 I’m currently learning ...
-- 
-  Bash scripting, 
-  Python, 
-  
+👋 Hi, I'm @Gaiatuven!
 
-- 📫 How to reach me ...
+💻 I'm a self-taught programmer with a passion for IT and software engineering. I'm interested in pursuing a career in this field and have been developing my skills in coding, Bash scripting, and Python development.
+
+🌱 Currently, I'm expanding my knowledge and skills in various programming languages and tools to prepare for my career.
+
+🚀 I'm always looking for opportunities to collaborate on open-source projects and contribute to the community.
+
+📫 Feel free to reach out to me via email at gaiatuven@email.com or on Twitter at @Gaiatuven.
 
 <!---
 Gaiatuven/Gaiatuven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
